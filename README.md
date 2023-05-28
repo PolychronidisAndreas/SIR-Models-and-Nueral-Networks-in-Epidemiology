@@ -1,1 +1,1 @@
-# SIR-Models-and-Nueral-Networks-in-Epidemiology
+Paper conducted in university.
